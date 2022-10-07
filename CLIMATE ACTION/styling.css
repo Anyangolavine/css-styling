@@ -1,0 +1,17 @@
+:root{--green: #11F519;
+--pink: #FF6FB5;
+--purple:#AB46D2;
+--navy: #55D8C1;
+--yellow: #FCF69C;
+}
+.body{
+    background-color: var(--navy);
+}
+.unorderedlist{
+   list-style-type: none;
+   justify-content: flex-end;
+   display: flex;
+   gap: 20px;
+   margin:0px;
+
+}
